@@ -7,8 +7,15 @@
     height: 50px;
 }
 
-#menu {
+#menu_1 {
     background-color: lightgray;
+    float: left;
+    width: 20%;
+    height: 150px;
+}
+
+#menu_2 {
+    background-color: lightsalmon;
     float: left;
     width: 20%;
     height: 150px;
